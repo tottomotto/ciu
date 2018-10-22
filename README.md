@@ -230,7 +230,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 ## Don't feel you aren't smart enough
 - [ ] Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [ ] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [x] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [ ] [Believe you can change](http://www.aaronsw.com/weblog/dweck)
 
@@ -437,6 +437,9 @@ OR:
     - A fine book, but after working through problems on several pages I got frustrated with the Pascal, do while loops, 1-indexed arrays, and unclear post-condition satisfaction results.
     - Would rather spend time on coding problems from another book or online coding problems.
 
+- [ ] [Algorithmic thinking](https://www.youtube.com/watch?v=HtSuA80QTyo)
+    - This course provides an introduction to mathematical modeling of computational problems. 
+    - It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems.  
 </details>
 
 ## Before you Get Started
@@ -539,9 +542,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
 - [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [x] [How CPU executes a program](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
@@ -1047,6 +1050,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
             - [more flavor](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
 
 - ### Design patterns
+    - [ ] GoF book
     - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
         - [ ] strategy
