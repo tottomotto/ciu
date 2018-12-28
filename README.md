@@ -442,6 +442,8 @@ OR:
     - This course provides an introduction to mathematical modeling of computational problems. 
     - It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems.  
 
+</details>
+
 ## Before you Get Started
 
 This list grew over many months, and yes, it kind of got out of hand.
